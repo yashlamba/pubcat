@@ -19,10 +19,13 @@ class GitHelper {
   Map<String, String> tagmapping = {};
 
   GitHelper(this.repo, this.pubpath, {this.branch}) {
-    repopath = repopath + "/" + repo.split("/").last;
+    repopath = repopath + "/" + repo.split("/").last.split(".").first;
   }
 
   List<dynamic> clone() {
+    if (Directory(this.repopath).existsSync()) {
+      Directory(this.repopath).deleteSync(recursive: true);
+    }
     var runner = ["clone"];
     if (this.branch.length > 0) {
       runner += ["--single-branch", "-b", branch];
@@ -31,7 +34,6 @@ class GitHelper {
 
     var result =
         Process.runSync(this.command, runner, workingDirectory: directory.path);
-
     return [result.exitCode, result.stdout, result.stderr];
   }
 
@@ -58,9 +60,9 @@ class GitHelper {
 
   void pubspec(bool verbose) {
     this.tagmapping.forEach((tag, commit_hash) {
-      var content = Process.runSync(
-          "git", ["show", this.tagmapping[tag] + ":pubspec.yaml"],
-          workingDirectory: this.repopath + this.pubpath);
+      var content = Process.runSync("git",
+          ["show", this.tagmapping[tag] + ":${this.pubpath}pubspec.yaml"],
+          workingDirectory: this.repopath);
 
       if (content.exitCode == 0) {
         print(
