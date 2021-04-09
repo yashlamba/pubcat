@@ -1,0 +1,162 @@
+Couldn't find pubspec.yaml for refs/tags/0.0.1
+Couldn't find pubspec.yaml for refs/tags/0.0.2
+Couldn't find pubspec.yaml for refs/tags/1.0.0
+Couldn't find pubspec.yaml for refs/tags/1.1.0
+Couldn't find pubspec.yaml for refs/tags/1.1.1
+Couldn't find pubspec.yaml for refs/tags/1.1.2
+Couldn't find pubspec.yaml for refs/tags/1.2.0
+Couldn't find pubspec.yaml for refs/tags/1.2.1
+Couldn't find pubspec.yaml for refs/tags/1.2.2
+Couldn't find pubspec.yaml for refs/tags/1.3.0
+Couldn't find pubspec.yaml for refs/tags/1.3.1
+Couldn't find pubspec.yaml for refs/tags/1.4.0
+Couldn't find pubspec.yaml for refs/tags/1.5.0
+Couldn't find pubspec.yaml for refs/tags/1.6.0
+Couldn't find pubspec.yaml for refs/tags/1.6.1
+Couldn't find pubspec.yaml for refs/tags/1.6.2
+Couldn't find pubspec.yaml for refs/tags/1.6.3
+Couldn't find pubspec.yaml for refs/tags/1.6.4
+Couldn't find pubspec.yaml for refs/tags/1.6.5
+Couldn't find pubspec.yaml for refs/tags/1.7.0
+Couldn't find pubspec.yaml for refs/tags/2.0.0
+Couldn't find pubspec.yaml for refs/tags/2.0.1
+Couldn't find pubspec.yaml for refs/tags/2.0.2
+Couldn't find pubspec.yaml for refs/tags/2.1.0
+Couldn't find pubspec.yaml for refs/tags/2.1.1
+Couldn't find pubspec.yaml for refs/tags/3.0.0
+Couldn't find pubspec.yaml for refs/tags/3.0.1
+Couldn't find pubspec.yaml for refs/tags/4.0.1
+Couldn't find pubspec.yaml for refs/tags/4.0.2
+Couldn't find pubspec.yaml for refs/tags/4.0.3
+Couldn't find pubspec.yaml for refs/tags/5.0.1
+Couldn't find pubspec.yaml for refs/tags/5.1.0
+Couldn't find pubspec.yaml for refs/tags/5.1.1
+Couldn't find pubspec.yaml for refs/tags/5.1.1+1
+Couldn't find pubspec.yaml for refs/tags/5.1.2
+Couldn't find pubspec.yaml for refs/tags/5.1.3
+Couldn't find pubspec.yaml for refs/tags/5.1.4
+Couldn't find pubspec.yaml for refs/tags/5.1.4+2
+Couldn't find pubspec.yaml for refs/tags/5.2.0
+Couldn't find pubspec.yaml for refs/tags/5.2.1
+Couldn't find pubspec.yaml for refs/tags/5.3.0
+Couldn't find pubspec.yaml for refs/tags/5.3.1
+Couldn't find pubspec.yaml for refs/tags/5.3.2
+Couldn't find pubspec.yaml for refs/tags/5.3.2+1
+Couldn't find pubspec.yaml for refs/tags/5.3.2+2
+Couldn't find pubspec.yaml for refs/tags/geolocator_platform_interface_v1.0.2
+Couldn't find pubspec.yaml for refs/tags/geolocator_platform_interface_v1.0.3+1
+Couldn't find pubspec.yaml for refs/tags/geolocator_platform_interface_v1.0.4
+Couldn't find pubspec.yaml for refs/tags/geolocator_platform_interface_v1.0.5
+Couldn't find pubspec.yaml for refs/tags/geolocator_platform_interface_v1.0.6
+Couldn't find pubspec.yaml for refs/tags/geolocator_platform_interface_v1.0.6+1
+Couldn't find pubspec.yaml for refs/tags/geolocator_platform_interface_v1.0.7
+Couldn't find pubspec.yaml for refs/tags/geolocator_platform_interface_v1.0.8
+Couldn't find pubspec.yaml for refs/tags/geolocator_platform_interface_v1.0.9
+
+
+pubspec.yaml found for refs/tags/geolocator_platform_interface_v2.0.0 
+PACKAGE VERSION FROM PUBSPEC: 2.0.0-nullsafety.0
+
+
+
+pubspec.yaml found for refs/tags/geolocator_platform_interface_v2.0.0-nullsafety.1 
+PACKAGE VERSION FROM PUBSPEC: 2.0.0-nullsafety.0
+
+Couldn't find pubspec.yaml for refs/tags/geolocator_v6.0.0
+Couldn't find pubspec.yaml for refs/tags/geolocator_v6.0.0+1
+Couldn't find pubspec.yaml for refs/tags/geolocator_v6.0.0+2
+Couldn't find pubspec.yaml for refs/tags/geolocator_v6.0.0+3
+Couldn't find pubspec.yaml for refs/tags/geolocator_v6.0.0+4
+Couldn't find pubspec.yaml for refs/tags/geolocator_v6.1.0
+Couldn't find pubspec.yaml for refs/tags/geolocator_v6.1.1
+Couldn't find pubspec.yaml for refs/tags/geolocator_v6.1.10
+Couldn't find pubspec.yaml for refs/tags/geolocator_v6.1.11
+Couldn't find pubspec.yaml for refs/tags/geolocator_v6.1.12
+Couldn't find pubspec.yaml for refs/tags/geolocator_v6.1.13
+Couldn't find pubspec.yaml for refs/tags/geolocator_v6.1.14
+Couldn't find pubspec.yaml for refs/tags/geolocator_v6.1.2
+Couldn't find pubspec.yaml for refs/tags/geolocator_v6.1.3
+Couldn't find pubspec.yaml for refs/tags/geolocator_v6.1.4
+Couldn't find pubspec.yaml for refs/tags/geolocator_v6.1.4+1
+Couldn't find pubspec.yaml for refs/tags/geolocator_v6.1.5
+Couldn't find pubspec.yaml for refs/tags/geolocator_v6.1.6
+Couldn't find pubspec.yaml for refs/tags/geolocator_v6.1.7
+Couldn't find pubspec.yaml for refs/tags/geolocator_v6.1.8
+Couldn't find pubspec.yaml for refs/tags/geolocator_v6.1.8+1
+Couldn't find pubspec.yaml for refs/tags/geolocator_v6.1.9
+
+
+pubspec.yaml found for refs/tags/geolocator_v6.2.0 
+PACKAGE VERSION FROM PUBSPEC: 1.0.0
+
+
+
+pubspec.yaml found for refs/tags/geolocator_v6.2.1 
+PACKAGE VERSION FROM PUBSPEC: 1.0.1
+
+
+
+pubspec.yaml found for refs/tags/geolocator_v7.0.0 
+PACKAGE VERSION FROM PUBSPEC: 2.0.0
+
+Couldn't find pubspec.yaml for refs/tags/geolocator_v7.0.0-nullsafety.0
+Couldn't find pubspec.yaml for refs/tags/geolocator_v7.0.0-nullsafety.1
+Couldn't find pubspec.yaml for refs/tags/geolocator_v7.0.0-nullsafety.2
+Couldn't find pubspec.yaml for refs/tags/geolocator_v7.0.0-nullsafety.3
+Couldn't find pubspec.yaml for refs/tags/geolocator_v7.0.0-nullsafety.4
+Couldn't find pubspec.yaml for refs/tags/geolocator_v7.0.0-nullsafety.5
+
+
+pubspec.yaml found for refs/tags/geolocator_v7.0.0-nullsafety.6 
+PACKAGE VERSION FROM PUBSPEC: 2.0.0-nullsafety.0
+
+
+
+pubspec.yaml found for refs/tags/geolocator_v7.0.0-nullsafety.7 
+PACKAGE VERSION FROM PUBSPEC: 2.0.0-nullsafety.0
+
+
+
+pubspec.yaml found for refs/tags/geolocator_v7.0.0-nullsafety.8 
+PACKAGE VERSION FROM PUBSPEC: 2.0.0-nullsafety.0
+
+
+
+pubspec.yaml found for refs/tags/geolocator_v7.0.1 
+PACKAGE VERSION FROM PUBSPEC: 2.0.1
+
+
+
+pubspec.yaml found for refs/tags/geolocator_web_v1.0.0 
+PACKAGE VERSION FROM PUBSPEC: 1.0.0
+
+
+
+pubspec.yaml found for refs/tags/geolocator_web_v1.0.1 
+PACKAGE VERSION FROM PUBSPEC: 1.0.1
+
+
+
+pubspec.yaml found for refs/tags/geolocator_web_v2.0.0 
+PACKAGE VERSION FROM PUBSPEC: 2.0.0
+
+
+
+pubspec.yaml found for refs/tags/geolocator_web_v2.0.0-nullsafety.0 
+PACKAGE VERSION FROM PUBSPEC: 2.0.0-nullsafety.0
+
+
+
+pubspec.yaml found for refs/tags/geolocator_web_v2.0.1 
+PACKAGE VERSION FROM PUBSPEC: 2.0.1
+
+
+
+pubspec.yaml found for refs/tags/geolocator_web_v2.0.2 
+PACKAGE VERSION FROM PUBSPEC: 2.0.2
+
+
+
+pubspec.yaml found for refs/tags/geolocator_web_v2.0.3 
+PACKAGE VERSION FROM PUBSPEC: 2.0.3
+
